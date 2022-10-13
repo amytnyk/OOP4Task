@@ -1,4 +1,4 @@
-import lotr.King;
+import lotr.characters.King;
 import lotr.Character;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

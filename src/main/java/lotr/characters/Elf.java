@@ -1,4 +1,6 @@
-package lotr;
+package lotr.characters;
+
+import lotr.Character;
 
 public class Elf extends Character {
     public Elf() {

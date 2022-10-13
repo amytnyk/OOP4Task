@@ -1,4 +1,6 @@
-package lotr;
+package lotr.characters;
+
+import lotr.Character;
 
 public class Hobbit extends Character {
     public Hobbit() {
